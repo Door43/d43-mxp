@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxp:home|Door43 (mxp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxp|d43-mxp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxp/archive/master.zip|d43-mxp.zip]]
+
+**Recent Changes**
+{{changes>ns = mxp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxp|Ethnologue data]]
+
